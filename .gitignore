@@ -3,5 +3,5 @@
 .project
 *.class
 .idea/
-.iml
-.setttings/
+*.iml
+.settings/
