@@ -1,4 +1,4 @@
-﻿package org.langqiao.srp.section2;
+package org.langqiao.srp.section2;
 
 /**
  * @author cbf4Life cbf4life@126.com
